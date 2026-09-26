@@ -1,7 +1,7 @@
 # MATCHING GUI
 
-Matching algorithms for the retrieval of all stable outcomes in two-sided and N-sided matching
-**GUI VERSION**
+Matching algorithms for the retrieval of all stable outcomes in two-sided matching
+**(GUI VERSION)**
 
 
 ### INSTRUCTIONS
