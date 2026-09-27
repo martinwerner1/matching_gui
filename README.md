@@ -30,6 +30,8 @@ If you just downloaded the binaries (Matching_Program_v77 or Matching_Program.ex
 
 For Linux type this into your terminal (inside your folder): chmod +x Matching_Program_v77
 
+If your screen is to small for this GUI program, i.e. the lower part is not displayed completely, so please set a higher screen resolution. Or you can rotate your screen by 90° and switch from landscape to portrait mode!
+
 
 ### ADDITIONAL REMARKS
 
