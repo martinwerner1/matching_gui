@@ -21,6 +21,8 @@ cargo build --release
 
 This program is located in the subfolder: ./target/release/
 
+(After successfully compiling the release version of this program, please copy the program file from ./target/release to the main folder ./ in order to preserve the folder consistency!)
+
 This project is tested under Linux and Windows systems: Debian/Fedora and Windows 10/11
 
 
