@@ -24,6 +24,13 @@ This program is located in the subfolder: ./target/release/
 This project is tested under Linux and Windows systems: Debian/Fedora and Windows 10/11
 
 
+### IMPORTANT NOTES
+
+If you just downloaded the binaries (Matching_Program_v77 or Matching_Program.exe), please ensure that you enable the permission rights to execute:
+
+For Linux type this into your terminal (inside your folder): chmod +x Matching_Program_v77
+
+
 ### ADDITIONAL REMARKS
 
 Please note that this is an ongoing project and it will be updated regularly. If anything is not working as desired, please be patient and have a short lookup after a couple of days or a week. The code will be steadily improved from time to time.
