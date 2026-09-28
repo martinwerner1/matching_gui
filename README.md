@@ -28,7 +28,7 @@ This project is tested under Linux and Windows systems: Debian/Fedora and Window
 
 ### IMPORTANT NOTES
 
-If you just downloaded the binaries (Matching_Program_v77 or Matching_Program.exe), please ensure that you enable the permission rights to execute:
+If you just downloaded the binaries (Matching_Program_v77 or Matching_Program.exe), please ensure that you enabled the permission rights to execute:
 
 For Linux type this into your terminal (inside your folder): chmod +x Matching_Program_v77
 
