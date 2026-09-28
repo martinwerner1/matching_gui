@@ -45,3 +45,6 @@ You can contact me via mwerner6@smail.uni-koeln.de
 
 Thank you very much for your attention!
 Martin Werner, University of Cologne
+
+
+<img src="https://github.com/martinwerner1/matching_gui/screenshots/GUI_n77_w300.png">
