@@ -16,7 +16,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 3. Run the following command:
 cargo run
 
-4. For a speedy version of the program, please run the following command:
+4. For a fast version of the program, please run the following command:
 cargo build --release
 
 This program is located in the subfolder: ./target/release/
