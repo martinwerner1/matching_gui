@@ -47,4 +47,4 @@ Thank you very much for your attention!
 Martin Werner, University of Cologne
 
 
-<img src="https://github.com/martinwerner1/matching_gui/screenshots/GUI_n77_w300.png">
+<img src="[https://github.com/martinwerner1/matching_gui/screenshots/GUI_n77_w300.png](https://github.com/martinwerner1/matching_gui/blob/main/screenshots/GUI_n77_w300.png)">
